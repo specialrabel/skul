@@ -1,0 +1,10 @@
+﻿  playGround.cpp
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage3.h(7): warning C4005: 'OBJECTMAX': 매크로 재정의
+  c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage1.h(7): note: 'OBJECTMAX'의 이전 정의를 참조하십시오.
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage4.h(7): warning C4005: 'OBJECTMAX': 매크로 재정의
+  c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage3.h(7): note: 'OBJECTMAX'의 이전 정의를 참조하십시오.
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage5.h(7): warning C4005: 'OBJECTMAX': 매크로 재정의
+  c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage4.h(7): note: 'OBJECTMAX'의 이전 정의를 참조하십시오.
+c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage6.h(8): warning C4005: 'OBJECTMAX': 매크로 재정의
+  c:\users\speci\desktop\플밍28기\2. 포트폴리오\준포트폴리오\skul\c++\portfolio\stage5.h(7): note: 'OBJECTMAX'의 이전 정의를 참조하십시오.
+  windowAPI.vcxproj -> C:\Users\speci\Desktop\플밍28기\2. 포트폴리오\준포트폴리오\Skul\C++\portfolio\x64\Debug\windowAPI.exe
